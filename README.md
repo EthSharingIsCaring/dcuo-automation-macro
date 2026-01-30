@@ -107,3 +107,6 @@ This project is for educational and personal use. You are responsible for how an
 ## ❤️ Credits
 
 Script designed for people suffering from carpal tunel pains. Feel free to fork, tweak or improve this script.
+
+###
+Optimized for SEO: "DCUO Hack 2026", "DC Universe Online Cheats", "Undetectable DCUO Mods", "DC Universe Online Makro", "DCUO Helper"
